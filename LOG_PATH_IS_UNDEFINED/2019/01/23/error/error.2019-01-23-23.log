@@ -1,0 +1,2 @@
+2019-01-23 23:32:29.307 [http-nio-8080-exec-2] appName ERROR com.nrsc.logger.controller.LoggerTest 26 - 【用户信息】username=yoyo,password=123456
+2019-01-23 23:40:09.725 [http-nio-8080-exec-1] appName ERROR com.nrsc.logger.controller.LoggerTest 26 - 【用户信息】username=yoyo,password=123456

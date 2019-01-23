@@ -1,0 +1,11 @@
+logging:
+  pattern:
+    console: "%d - %msg%n"
+  #path: /var/nrsc/log
+  file: /var/nrsc/log/logger.log
+  level:
+    com.nrsc.logger.controller.LoggerTest: debug
+    #上面如果写root：debug就是将全局默认日志级别改为debug
+
+
+
